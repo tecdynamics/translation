@@ -1,0 +1,9 @@
+{
+    "name": "Translation",
+    "namespace": "Tec\\Translation\\",
+    "provider": "Tec\\Translation\\Providers\\TranslationServiceProvider",
+    "author": "Tecdynamics LTD",
+    "url": "https://tecdynamics.co.uk",
+    "version": "5.8",
+    "description": "Manage translation text"
+}
